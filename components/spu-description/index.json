@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "fui-text": "/components/firstui/fui-text/fui-text"
+  }
+}

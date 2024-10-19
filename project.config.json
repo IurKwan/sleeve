@@ -1,0 +1,124 @@
+{
+  "description": "项目配置文件",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": false,
+    "enhance": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": true,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "useCompilerModule": false,
+    "condition": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.4.6",
+  "appid": "wx74a34354eb238c93",
+  "projectname": "c-sleeve",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/detail/detail",
+          "pathName": "pages/detail/detail",
+          "query": "pid=15",
+          "scene": null
+        },
+        {
+          "name": "无规格",
+          "pathName": "pages/detail/detail",
+          "query": "pid=11",
+          "scene": null
+        },
+        {
+          "name": "pages/home/test",
+          "pathName": "pages/test/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/category/category",
+          "pathName": "pages/category/category",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/search/search",
+          "pathName": "pages/search/search",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/cart/cart",
+          "pathName": "pages/cart/cart",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/home/home",
+          "pathName": "pages/home/home",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/detail/detail",
+          "pathName": "pages/detail/detail",
+          "query": "pid=15",
+          "scene": null
+        },
+        {
+          "name": "pay-success",
+          "pathName": "pages/pay-success/pay-success",
+          "query": "pid=15",
+          "scene": null
+        },
+        {
+          "name": "pages/my/my",
+          "pathName": "pages/my/my",
+          "query": "pid=15",
+          "scene": null
+        },
+        {
+          "name": "pages/theme-spu-list/theme-spu-list",
+          "pathName": "pages/theme-spu-list/theme-spu-list",
+          "query": "tname=t-2",
+          "scene": null
+        },
+        {
+          "name": "pages/theme-spu-list/theme-spu-list",
+          "pathName": "pages/theme-spu-list/theme-spu-list",
+          "query": "tname=t-2",
+          "scene": null
+        },
+        {
+          "name": "pages/detail/detail",
+          "pathName": "pages/detail/detail",
+          "query": "id=32",
+          "scene": null
+        }
+      ]
+    }
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
